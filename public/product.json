@@ -1,0 +1,12 @@
+{
+    "title" : "Apple iPhone 15 (Black, 128 GB)",
+    "rating" : {"rate" :4.2, "ratings":12111, "reviews":812},
+    "price" :  {"mrp":72999,"old":79900,"discount":8,"packagingFee":99},
+    "logo":    "facebook-icon.PNG",
+    "offers" : ["5% Cashback on Flipkart Axis Bank CardT&C",
+                "₹4000 Off On HDFC Bank Credit Card EMI TransactionsT&C",
+                "₹4000 Off On HDFC Bank Credit Card Non EMI TransactionsT&C",
+                "Special Price Get extra ₹4901 off (price inclusive of cashback/coupon)T&C"
+               ],
+    "image" : "iphone.PNG"
+} 
